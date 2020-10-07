@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Examen Mobile</string>
+    <string name="agregar_libros">Añadir Libros</string>
+    <string name="title">Titulo</string>
+    <string name="pages">Paginas</string>
+    <string name="editorial">Editorial</string>
+    <string name="author">Autor</string>
+    <string name="description">Descripcion</string>
+    <string name="photo_url">URL de la Foto</string>
+    <string name="save">Guardar</string>
+</resources>

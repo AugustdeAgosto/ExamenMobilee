@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Examen Mobile</string>
+    <string name="agregar_libros">Add books</string>
+    <string name="title">Title</string>
+    <string name="pages">Pages</string>
+    <string name="editorial">Editorial</string>
+    <string name="author">Author</string>
+    <string name="description">Description</string>
+    <string name="photo_url">Photo URL</string>
+    <string name="save">Save</string>
+</resources>

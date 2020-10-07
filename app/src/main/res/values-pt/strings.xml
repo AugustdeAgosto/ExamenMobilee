@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Examen Mobiliño</string>
+    <string name="agregar_libros">Añadir Libriños</string>
+    <string name="title">Tituliño</string>
+    <string name="pages">Paginas</string>
+    <string name="editorial">Editorial</string>
+    <string name="author">Autor</string>
+    <string name="description">descrição</string>
+    <string name="photo_url">URL de la fotiño</string>
+    <string name="save">Salve do supita</string>
+
+
+</resources>
